@@ -1,0 +1,59 @@
+Test Cases for E-commerce Website
+
+We will explore various test cases that cover different areas of an e-commerce website, including the general functionality, home page, search feature, payments, shopping cart, address book, and registration page. Let’s dive into each of these categories and understand the key test cases to consider:
+
+1. General Test Cases:
+
+– Verify that the website loads properly on different browsers and devices.
+
+– Validate the responsiveness of the website design for mobile and tablet devices.
+
+– Check if the website has a clear and consistent navigation menu for easy user browsing.
+
+2. Home Page Test Cases:
+
+– Ensure that the homepage displays relevant and updated information.
+
+– Verify that featured products, promotions, and banners are visible and functioning correctly.
+
+– Test the search functionality on the homepage to ensure accurate results.
+
+3. Search Test Cases:
+
+– Validate the search functionality by testing different search queries and ensuring relevant products are displayed.
+
+– Check if the search filters and sorting options work as expected.
+
+– Test the search autocomplete feature for efficiency and accuracy.
+
+4. Payments Test Cases:
+
+– Test the different payment methods available on the website, such as credit cards, PayPal, or any other payment gateway.
+
+– Validate that payment transactions are processed securely and without any errors.
+
+– Verify that order confirmation emails are sent to customers after successful payment.
+
+5. Shopping Cart Page Test Cases:
+
+– Verify that products are added and removed from the cart correctly.
+
+– Test the quantity update feature in the cart.
+
+– Validate the subtotal, taxes, and shipping calculations on the cart page.
+
+6. Address Book Test Cases:
+
+– Test the address management feature, including adding, editing, and deleting addresses.
+
+– Ensure that the addresses are correctly associated with the customer account.
+
+– Validate that the selected shipping address is displayed accurately during the checkout process.
+
+7. Registration Page Test Cases:
+
+– Test the user registration process, including form validation and error handling.
+
+– Validate that user accounts are created successfully and can be logged in to.
+
+– Verify that the account confirmation email is sent after registration.
